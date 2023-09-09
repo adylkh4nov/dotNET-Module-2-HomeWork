@@ -1,0 +1,16 @@
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\bin\Debug\dotNET-Module-2-HomeWork.exe.config
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\bin\Debug\dotNET-Module-2-HomeWork.exe
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\bin\Debug\dotNET-Module-2-HomeWork.pdb
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.csproj.AssemblyReference.cache
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.csproj.SuggestedBindingRedirects.cache
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.csproj.CoreCompileInputs.cache
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.exe
+D:\Projects\c#\dotNET-Module-1-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.pdb
+D:\Projects\c#\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\bin\Debug\dotNET-Module-2-HomeWork.exe.config
+D:\Projects\c#\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\bin\Debug\dotNET-Module-2-HomeWork.exe
+D:\Projects\c#\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\bin\Debug\dotNET-Module-2-HomeWork.pdb
+D:\Projects\c#\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.csproj.AssemblyReference.cache
+D:\Projects\c#\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.csproj.SuggestedBindingRedirects.cache
+D:\Projects\c#\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.csproj.CoreCompileInputs.cache
+D:\Projects\c#\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.exe
+D:\Projects\c#\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\dotNET-Module-2-HomeWork\obj\Debug\dotNET-Module-2-HomeWork.pdb
